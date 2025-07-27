@@ -1,0 +1,5 @@
+{
+  "name": "Viral Podcast Clipper",
+  "description": "An AI-powered tool that takes a YouTube podcast link and generates 5-10 ideas for viral short clips, complete with titles, hooks, and editing suggestions.",
+  "requestFramePermissions": []
+}
